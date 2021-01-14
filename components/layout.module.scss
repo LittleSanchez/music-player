@@ -1,0 +1,9 @@
+@import '/styles/abstracts/theme';
+
+.navbar{
+    font-size: 1.8em;
+    font-weight: 500;
+    background-color: $mainbgColor;
+    padding: .5em 0;
+    padding-left: 40px;
+}
